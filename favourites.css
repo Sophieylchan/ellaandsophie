@@ -1,0 +1,14 @@
+h1 {
+    color: darkblue;
+    text-align: center;
+    font-family: fantasy;
+}
+body {
+    font-family: 'Playfair Display';
+}
+.table-striped>tbody>tr:nth-child(odd)>th {
+    background-color: #FFE4FA;
+  }
+  .table-striped>tbody>tr:nth-child(even)>th {
+    background-color: #F1DEDC;
+  } 

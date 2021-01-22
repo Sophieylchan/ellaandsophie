@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&display=swap');
+.container {
+    background-color: lightgrey;
+}
+body{ 
+    line-height: 1.8;
+    color: lightseagreen;
+    font-family: 'Hachi Maru Pop';
+    font: 20px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {color:darkblue; text-align: center;}
+h3 {color:lightpink; text-align: center;}
+
+#ellapara {
+    background-color: #44633F;
+    font-family: 'sans-serif';
+
+}
+
+#sophiepara{
+    background-color: #004E89;
+    font-family: 'sans-serif';
+
+}
